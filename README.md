@@ -6,7 +6,7 @@ Test-Be PT.Transindo Data Perkasa
 ## set up this project
 - clone this project
 ```
-git clone git@github.com:Pugud19/eigen-test-be.git
+git clone git@github.com:Pugud19/banksampah.git
 ```
 
 - set up laravel
